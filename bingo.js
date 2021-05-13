@@ -52,7 +52,7 @@ var siguienteFicha = function() {
     if(fruto == 12){fruto = "templanza";}
 
 
-    $texto.innerHTML = `${fila} - <img src="IMG/${fruto}.jpg" style="font-size:30pt;" alt="${fruto}" width="250" height="200"/>`;
+    $texto.innerHTML = `${fila} - <img src="IMG/${fruto}.jpg" style="font-size:30pt;" alt="${fruto}" width="250" height="200"/><br>${fruto}`;
 }
 
 
