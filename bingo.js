@@ -46,7 +46,7 @@ var siguienteFicha = function() {
     if(fruto == 6){fruto = "longaminidad";}
     if(fruto == 7){fruto = "benignidad";}
     if(fruto == 8){fruto = "mansedumbre";}
-    if(fruto == 9){fruto = "fideliad";}
+    if(fruto == 9){fruto = "fidelidad";}
     if(fruto == 10){fruto = "castidad";}
     if(fruto == 11){fruto = "modestia";}
     if(fruto == 12){fruto = "templanza";}
