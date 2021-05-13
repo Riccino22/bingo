@@ -1,0 +1,25 @@
+body{
+    background: #05a1fce1;
+    background-image: url("../IMG/cielo.jpg");
+    color: #d6d6d6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40pt;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#botoncito{
+    border: none;
+    width: 200px;
+    height: 50px;
+    font-size: 12pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
